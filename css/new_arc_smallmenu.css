@@ -1,0 +1,13 @@
+.arc_lst{width:100%;min-width:1000px;overflow:hidden;background:#f1f1f1;padding-top:12px;padding-bottom:35px;}
+.arc_lst .arc_lst_mid{width:1000px;overflow:hidden;margin:0 auto;}
+.arc_lst .arc_lst_mid .top_menu{width:998px;overflow:hidden;background:#fff;padding:6px 8px;border:1px solid #dcdcdc;}
+.arc_lst .arc_lst_mid .top_menu dl{float:left;}
+.arc_lst .arc_lst_mid .top_menu dl dt{float:left;width:63px;height:58px;}
+.arc_lst .arc_lst_mid .top_menu dl dd{float:left;height:50px;padding-top:8px;}
+.arc_lst .arc_lst_mid .top_menu dl dd a{font-size:12px;color:#7c7c7c;}
+.arc_lst .arc_lst_mid .top_menu dl dd a:hover{color:#0f8cdb;}
+.arc_lst .arc_lst_mid .top_menu dl.qgbz dd{width:68px;}
+.arc_lst .arc_lst_mid .top_menu dl.cjyb dd{width:180px;}
+.arc_lst .arc_lst_mid .top_menu dl.zhyb dd{width:180px;}
+.arc_lst .arc_lst_mid .top_menu dl.ybzx dd{width:134px;}
+.arc_lst .arc_lst_mid .top_menu dl.yxpj dd{width:110px;}
