@@ -57,7 +57,7 @@
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis{width:636px;overflow:hidden;padding:0px 30px 0px 38px;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li{width:636px;overflow:hidden;border-bottom:1px solid #f2f2f2;padding-bottom:30px;margin-top:30px;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_pic{width:213px;height:253px;float:left;overflow:hidden;}
-.arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_pic img{width:213px;height:253px;}
+.arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_pic img{width:213px;height:190px;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_info{float:left;width:403px;padding-left:20px;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_info h1{width:403px;overflow:hidden;white-space:nowrap;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .kszj_info h1 b{font-size:20px;display:block;float:left;height:35px;line-height:35px;margin-right:10px;}
@@ -67,7 +67,7 @@
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .cz_time p{color:#000;margin-top:7px;line-height:100%;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .cz_time p span{color:#4c4c4c;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .doc_desc{width:403px;height:87px;overflow:hidden;padding-top:15px;}
-.arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .doc_desc p{line-height:130%;}
+/* .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .doc_desc p{line-height:130%;} */
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .doc_yy{width:403px;height:43px;padding-top:30px;}
 .arc_lst .arc_lst_mid .lst_con .right .arc_lst_dis ul li .doc_yy a{float:left;margin-right:30px;width:124px;height:43px;overflow:hidden;}
 
@@ -77,14 +77,14 @@
 .arc_lst .arc_lst_mid .lst_con .right .page ul li a{color:#005dac;}
 .arc_lst .arc_lst_mid .lst_con .right .page ul li.active{background:#005dac;}
 .arc_lst .arc_lst_mid .lst_con .right .page ul li.active a{color:#fff;}
-.gotop{width:52px;background:url(../images/gotop.jpg) no-repeat left top;position:fixed;right:20px;top:80%;z-index:999;_position: absolute; 
-_bottom: auto; 
+.gotop{width:52px;background:url(../images/gotop.jpg) no-repeat left top;position:fixed;right:20px;top:80%;z-index:999;_position: absolute;
+_bottom: auto;
 _top: expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); _margin-bottom:30px;}
 
-* html{ 
-background-image:url(about:blank); 
-background-attachment:fixed; 
-} 
+* html{
+background-image:url(about:blank);
+background-attachment:fixed;
+}
 
 
 .footer{width:100%;min-width:1000px;background:#313a4a;overflow:hidden;}

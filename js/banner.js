@@ -2,31 +2,49 @@ document.writeln("<div class=\"inner_banner\"  id=\"inner_banner\" style=\"overf
 document.writeln("<div class=\"bd\">");
 document.writeln("<ul>");
 document.writeln("<li>");
-// document.writeln("<a target=\"_blank\" href=\"http://pft.zoosnet.net/LR/Chatpre.aspx?id=PFT46114098&lng=cn\">");
+
 document.writeln("<img src=\"./images/bannerzb/01.png\"/>");
 document.writeln("</a>");
 document.writeln("</li>");
-document.writeln("<li>");
-// document.writeln("<a target=\"_blank\" href=\"http://pft.zoosnet.net/LR/Chatpre.aspx?id=PFT46114098&lng=cn\">");
+
 document.writeln("<img src=\"./images/bannerzb/02.png\"/>");
 document.writeln("</a>");
 document.writeln("</li>");
 
 
 document.writeln("<li>");
-// document.writeln("<a target=\"_blank\" href=\"http://pft.zoosnet.net/LR/Chatpre.aspx?id=PFT46114098&lng=cn\">");
+
 document.writeln("<img src=\"./images/bannerzb/03.png\"/>");
 document.writeln("</a>");
 document.writeln("</li>");
-/*document.writeln("<li>");
 
-document.writeln("<a target=\"_blank\" href=\"http://pft.zoosnet.net/LR/Chatpre.aspx?id=PFT46114098&lng=cn\">");
-
-document.writeln("<img src=\"./images/banner/banner_3.jpg\"/>");*/
 
 
 document.writeln("</a>");
 document.writeln("</li>");
+
+
+document.writeln("<li>");
+document.writeln("<img src=\"./images/bannerzb/04.png\"/>");
+document.writeln("</a>");
+document.writeln("</li>");
+
+
+document.writeln("<li>");
+document.writeln("<img src=\"./images/bannerzb/05.png\"/>");
+document.writeln("</a>");
+document.writeln("</li>");
+
+
+document.writeln("<li>");
+document.writeln("<img src=\"./images/bannerzb/06.png\"/>");
+document.writeln("</a>");
+document.writeln("</li>");
+
+
+
+
+
 
 
 document.writeln("</ul>");

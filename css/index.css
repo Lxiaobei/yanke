@@ -427,7 +427,7 @@
 .friend_specil .fs_mid .bd ul.friend li{float:left;margin-right:30px;margin-bottom:10px;}
 .friend_specil .fs_mid .bd ul.friend li a{color:#4a4a4a;white-space:nowrap;}
 
-.big_ewm{display:none;width:100%;position:absolute;left:0px;top:0px;background:url("../images/black_tm.png") repeat left top;z-index:999;}
+.big_ewm{display:none;width:100%;position:absolute;left:0px;top:0px;z-index:999;}
 .big_ewm .ewm_con{width:200px;overflow:hidden;background:#fff;padding:20px;position:fixed;top:0px;left:0px;}
 .big_ewm .ewm_con .close{width:200px;height:25px;}
 .big_ewm .ewm_con .close a{float:right;}

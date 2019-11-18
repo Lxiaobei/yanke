@@ -108,14 +108,14 @@
 
 
 
-.gotop{width:52px;background:url("../images/gotop.jpg") no-repeat left top;position:fixed;right:20px;top:80%;z-index:999;_position: absolute; 
-_bottom: auto; 
+.gotop{width:52px;background:url("../images/gotop.jpg") no-repeat left top;position:fixed;right:20px;top:80%;z-index:999;_position: absolute;
+_bottom: auto;
 _top: expression(eval(document.documentElement.scrollTop+document.documentElement.clientHeight-this.offsetHeight-(parseInt(this.currentStyle.marginTop,10)||0)-(parseInt(this.currentStyle.marginBottom,10)||0))); _margin-bottom:30px;}
 
-* html{ 
-background-image:url(about:blank); 
-background-attachment:fixed; 
-} 
+* html{
+background-image:url(about:blank);
+background-attachment:fixed;
+}
 
 
 .footer{width:100%;min-width:1000px;background:#313a4a;overflow:hidden;}
@@ -130,7 +130,7 @@ background-attachment:fixed;
 .footer .footer_mid .bottom .right{float:right;width:107px;text-align:center;margin-top:16px;}
 .footer .footer_mid .bottom .right p{margin-top:3px;color:#fff;}
 
-.big_ewm{display:none;width:100%;position:absolute;left:0px;top:0px;background:url("../images/black_tm.png") repeat left top;z-index:999;}
+.big_ewm{display:none;width:100%;position:absolute;left:0px;top:0px;z-index:999;}
 .big_ewm .ewm_con{width:200px;overflow:hidden;background:#fff;padding:20px;position:fixed;top:0px;left:0px;}
 .big_ewm .ewm_con .close{width:200px;height:25px;}
 .big_ewm .ewm_con .close a{float:right;}
