@@ -1,8 +1,0 @@
-.inner_banner{width:100%;min-width:1000px;height:450px;position:relative;}
-.inner_banner .bd li{width:100%;min-width:1000px;height:450px;}
-.inner_banner .bd li a{overflow:hidden;display:block;width:100%;height:450px;}
-.inner_banner .bd li a img{width:100%;height:100%;}
-.inner_banner .hd{position:absolute;bottom:0px;left:0;width:100%;height:30px;_bottom:6px;}
-.inner_banner .hd ul{margin:0 auto;width:120px;}
-.inner_banner .hd ul li{float:left;width:13px;height:13px;text-indent:-9999px;background:url("../images/new_dot.png") no-repeat left -39px;display:inline;margin-right:6px;}
-.inner_banner .hd ul li.on{background:url("../images/new_dot.png") no-repeat left top;}

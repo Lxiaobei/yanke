@@ -1,5 +1,0 @@
-.linkbox { padding:10px 8px; border-bottom:1px solid #EEE; }
-.linkbox h3, .linkbox h3 a { font-size:14px; color:#693; }
-.f6 {/* 链接横排自适应列表 */ width:100%; overflow:hidden; clear:both; padding-bottom:10px; }
-.f6 li { float:left; line-height:14px; padding:8px 10px 0px; white-space:nowrap; list-style:none; }
-.f6 li a { color:#666666; float:left; }
